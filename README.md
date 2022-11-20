@@ -1,4 +1,4 @@
 # extjsbackend
  backend
  
- laravel установлен в http://riit.ru/extjsbackend/
+ laravel (v9.3.11) установлен в http://riit.ru/extjsbackend/
